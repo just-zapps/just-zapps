@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Francesco 👋
 
-<!--
-**just-zapps/just-zapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student (soon-to-be graduate) with a strong interest in backend development, software architecture, and distributed systems.
 
-Here are some ideas to get you started:
+I enjoy designing systems that are not just functional, but structured, scalable, and maintainable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Java
+- Python
+- C
+
+**Backend & Architecture**
+- REST APIs
+- Layered architectures
+- Access control systems
+- Data modeling
+
+**Databases**
+- MySQL
+- InfluxDB
+
+**Tools & Technologies**
+- Docker
+- MQTT
+- Git
+- Linux (Fedora, Ubuntu, Raspberry Pi)
+
+---
+
+## 🚀 Featured Projects
+
+
+### 🏎 F1 Telemetry Pipeline
+Simulation of real-time telemetry ingestion and visualization.
+
+- Dockerized architecture
+- MQTT + InfluxDB + Grafana
+- High-frequency data handling
+
+---
+
+## 📚 Currently Exploring
+
+- Distributed systems design
+- Backend scalability patterns
+- System security and access control
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/francesco-zappalà-9a862335b
+- Email: zappala.francesco00@gmail.com
+
+---
