@@ -4,11 +4,13 @@ Computer Science student (soon-to-be graduate) with a strong interest in backend
 
 I enjoy designing systems that are not just functional, but structured, scalable, and maintainable.
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=just-zapps&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-zapps&layout=compact&langs_count=8&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=just-zapps&show_icons=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-zapps&layout=compact&langs_count=8" height="170" />
 </p>
 
 ---
