@@ -1,31 +1,33 @@
-# Hi there, I'm Francesco 👋
+# Francesco Zappalà
 
-Computer Science student (soon-to-be graduate) with a strong interest in backend development, software architecture, and distributed systems.
+Backend & systems-oriented software engineer interested in distributed systems, Linux environments, networking, and self-hosted infrastructure.
 
-I enjoy designing systems that are not just functional, but structured, scalable, and maintainable.
+I enjoy building modular and scalable systems, with a particular focus on backend development, real-time data processing, and infrastructure-oriented software.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
 - Java
 - Python
 - C
 
-**Backend & Architecture**
+### Backend & Software Design
 - REST APIs
 - Layered architectures
 - Access control systems
 - Data modeling
+- Spring Boot
 
-**Databases**
+### Databases
 - MySQL
 - InfluxDB
 
-**Tools & Technologies**
+### Infrastructure & Tools
 - Docker
 - MQTT
+- Grafana
 - Git
 - Linux (Fedora, Ubuntu, Raspberry Pi)
 
@@ -33,13 +35,25 @@ I enjoy designing systems that are not just functional, but structured, scalable
 
 ## 🚀 Featured Projects
 
+### 🏎 F1 Telemetry Data Pipeline
 
-### 🏎 F1 Telemetry Pipeline
-Simulation of real-time telemetry ingestion and visualization.
+Simulation of a distributed telemetry pipeline inspired by Formula 1 systems.
 
-- Dockerized architecture
-- MQTT + InfluxDB + Grafana
-- High-frequency data handling
+- MQTT-based publish/subscribe architecture
+- Real-time telemetry ingestion and visualization
+- Dockerized services orchestration
+- Grafana dashboards and InfluxDB integration
+
+---
+
+### 🔐 Secure Directory Management System
+
+Backend system for secure shared file and directory management.
+
+- Fine-grained access control model
+- Resource-oriented architecture
+- MySQL persistence layer
+- Modular backend design with Spring Boot
 
 ---
 
@@ -47,13 +61,13 @@ Simulation of real-time telemetry ingestion and visualization.
 
 - Distributed systems design
 - Backend scalability patterns
+- Linux networking
+- Self-hosted infrastructure
 - System security and access control
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/francesco-zappalà-9a862335b
+- LinkedIn: www.linkedin.com/in/zappala-francesco
 - Email: zappala.francesco00@gmail.com
-
----
